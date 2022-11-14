@@ -1,5 +1,5 @@
-Creating a community
- <!-- panels:start -->
+# Creating a community
+
 
 Creating a game is a quick and straightforward process. You can create a game in from the following menu:
 
@@ -16,7 +16,7 @@ Once that is done, create save game and you will re-directed to your community d
 <img src="https://cdn.discordapp.com/attachments/1040461336846536704/1040465803914530876/image.png">
 
 
- <!-- panels:end -->
+
 
 
 
