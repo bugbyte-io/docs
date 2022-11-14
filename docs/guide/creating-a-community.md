@@ -1,4 +1,4 @@
-# Creating a community
+ Creating a community
 
 
 Creating a game is a quick and straightforward process. You can create a game in from the following menu:

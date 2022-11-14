@@ -1,4 +1,4 @@
-# Filing a bug report
+ Filing a bug report
 
 Creating a bug report is an easy process. 
 
